@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\bin\Debug\tigiachuyendoi.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\bin\Debug\tigiachuyendoi.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\bin\Debug\tigiachuyendoi.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\obj\Debug\tigiachuyendoi.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\obj\Debug\tigiachuyendoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\obj\Debug\tigiachuyendoi.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\obj\Debug\tigiachuyendoi.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\tigiachuyendoi\obj\Debug\tigiachuyendoi.pdb
